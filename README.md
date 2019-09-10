@@ -1,5 +1,5 @@
-# hell
-A collection of .bat files (name is a song reference)
+# ShiftQuickStart
+A collection of .bat files
 
 # start.bat
 This opens the login pages for
@@ -12,7 +12,8 @@ After a 75 second delay it will open
 + [gmail](https://mail.google.com/mail/u/0)
 + [mymaps](https://ssd.port.ac.uk/mymaps/)
 + [Library classmark tool](https://library.port.ac.uk/classmark/)
-+ [The ITH group chat in messenger](https://www.messenger.com/t/1097815366974128)
++ [The ITH group chat in slack](https://www.messenger.com/t/1097815366974128)
++ [Traka](http://ssd-web-01.uni.ds.port.ac.uk/traka/v2/web/)
 
 It also opens notepad
 
