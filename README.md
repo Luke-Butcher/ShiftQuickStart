@@ -20,3 +20,8 @@ It also opens notepad
 
 # group policy.bat
 Fetches and applies the latest group policy and logs out automatically
+
+
+# apps.js
+Script to extract available apps on appsanywhere
+	
