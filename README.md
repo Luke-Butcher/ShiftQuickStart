@@ -8,6 +8,7 @@ This opens the login pages for
 
 After a 75 second delay it will open
 + [The rota]
++ [The ssd port and search page]
 + [ALT]
 + [gmail]
 + [mymaps]
