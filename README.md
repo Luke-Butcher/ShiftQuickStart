@@ -8,12 +8,11 @@ This opens the login pages for
 
 After a 75 second delay it will open
 + [The rota]
-+ [The ssd port and search page]
++ [Article hub]
 + [ALT]
 + [gmail]
 + [mymaps]
 + [Library classmark tool]
-+ [The ITH group chat in slack]
 + [Traka]
 
 It also opens notepad
